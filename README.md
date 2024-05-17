@@ -4,4 +4,4 @@ Najosnovija CRUD aplikacija koja pruža najosnovije funkcionalnosti unosa, prika
 
 ## Pokretanje aplikacije
 
-Potrebno je preuzeti i podesit XAMPP (`https://www.apachefriends.org/download.html`). Potom, postavit projekt unutar `/htdocs` direktorija, te onda preko `localhost/phpmyadmin` pozicionirat se na import i podesit bazu iz direktorija `/baza`.
+Potrebno je preuzeti i podesit XAMPP (`https://www.apachefriends.org/download.html`). Potom, postavit projekt unutar `/htdocs` direktorija, te onda preko `localhost/phpmyadmin` pozicionirat se na import i prenijeti bazu iz direktorija `/baza`.
