@@ -1,6 +1,6 @@
 # CRUD Adresar
 
-Najosnovija CRUD aplikacija koja pruža najosnovije funkcionalnosti unosa, prikaza, ažuriranja i brisanja podataka. Također, ima mogućnost registracije i prijave korisnika.
+Najosnovija CRUD aplikacija koja pruža funkcionalnosti unosa, prikaza, ažuriranja i brisanja podataka. Također, ima mogućnost registracije i prijave korisnika.
 
 ## Pokretanje aplikacije
 
