@@ -1,0 +1,35 @@
+h1, h2{
+    text-align: center;
+}
+
+.forma{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.ime, .prezime, .adresa, #grad, #spol, #slika, .naslov, .tekst-poruke, .primatelj, .korisnicko_ime, .lozinka{
+    margin-top: 5px;
+    margin-bottom: 15px;
+    display: block;
+    clear: both;
+}
+
+#mail{
+    display: block;
+    clear: both;  
+}
+
+.gumbovi{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.spremi, .odustani, .nazad, .prijava{
+    margin: 5px;
+}
+
+.unos{
+    text-align: center;
+}

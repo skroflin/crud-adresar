@@ -1,0 +1,13 @@
+h2{
+    text-align: center;
+}
+
+.podaci{
+    display: block;
+    clear: both;
+    text-align: center;
+}
+
+.message{
+    margin: 40%;
+}
